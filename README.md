@@ -27,7 +27,7 @@ Esta extensión permitirá ejecutar codigo JavaScript sin depender de cualquier 
 - Ingresar dos valores enteros y enumerar los elementos que los separan. (✓)
 - Ejemplo 1: 2 y 6 --> 3 , 4, 5 (✓)
 - Ejemplo 2: 10 y 5 --> 9, 8, 7, 6 (✓)
-- Ingresar dos números y mostrar los múltiplos de 3 comprendidos entre ambos. ()
+- Ingresar dos números y mostrar los múltiplos de 3 comprendidos entre ambos. (✓)
 - Mostrar los multiplos de 2 y 5 menores a 100. ()
 - Obtener la suma de los elementos de un array.
 - Sumar solo los elementos pares de un array.
