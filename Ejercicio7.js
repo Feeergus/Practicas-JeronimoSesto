@@ -1,12 +1,10 @@
-let Valor1 = 1
-let Valor2 = 6
-
-if(Valor1 < Valor2){
-    let difValor = Valor2 - 1
-    let difInicio = Valor1 + 1
-    let mulTres = 
-    for(let i = difInicio; i <= difValor;i++){
-        
-        console.log(i)
-    }
+let Valor1 = 1;
+let Valor2 = 10;
+let cont3 =0;
+for (var i = Valor1; i <= Valor2; i++) {
+if(i % 3 == 0){
+    console.log(i);
+    cont3++;
 }
+}
+console.log('numeros multiplos de 3: ' + cont3);
